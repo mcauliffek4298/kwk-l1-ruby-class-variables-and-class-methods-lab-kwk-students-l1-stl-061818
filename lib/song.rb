@@ -23,7 +23,7 @@ end
 
 
 jon_song = Song.new("Hippity Hoppity", "Jon Mendez", "Jon's Way")
-big_song = song.new ("1", "n", "u")
+big_song = Song.new ("1", "n", "u")
 
 puts "this is the first method"
 puts jon_song.get_count_other_wayputs "this is the second method"
