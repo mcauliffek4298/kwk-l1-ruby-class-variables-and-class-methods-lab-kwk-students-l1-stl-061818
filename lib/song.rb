@@ -30,9 +30,3 @@ puts jon_song.get_count_other_wayputs "this is the second method"
 puts Song.get_count_other_way
 
 
-
-
-# puts jon_song.genre
-#  puts "wow! what a great choice!"
-#  puts jon_song.name
-#  puts jon_song.artist
