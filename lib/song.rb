@@ -16,7 +16,7 @@ def get_count
   @@count
 end
   
-end self.get_count_other_way
+def self.get_count_other_way
 
 end
 
