@@ -18,7 +18,7 @@ end
   
 end self.get_count_other_way
 
-
+end
 
 
 
@@ -29,7 +29,7 @@ puts jon_song.get_count
 
 
 
-# puts jon_song.genre
-# puts "wow! what a great choice!"
-# puts jon_song.name
-# puts jon_song.artist
+# # puts jon_song.genre
+# # puts "wow! what a great choice!"
+# # puts jon_song.name
+# # puts jon_song.artist
